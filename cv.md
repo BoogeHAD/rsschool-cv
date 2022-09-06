@@ -1,7 +1,6 @@
 # Stefan Fridman
 
 ## Contacts
-
 * Location: Moscow, Russia
 * Email: tedheie@gmail.com
 * GitHub: @BoogeHAD
